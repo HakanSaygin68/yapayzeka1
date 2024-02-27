@@ -30,5 +30,5 @@ mp_drawing_draw_landmarks(
 print(len(results.pose_landmarks.landmarks))
 for pose in results.pose_landmark.landmark:
 
-    print(pose.x, pose.y, pose.z)
+    print(pose.x, pose.y, pose.z)sadsadsasad
     
